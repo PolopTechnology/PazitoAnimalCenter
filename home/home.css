@@ -1,0 +1,38 @@
+body {
+    background-image: linear-gradient(brown 80%, chocolate 20%);
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1 {
+    background-color: goldenrod;
+}
+#pazito {
+    float: left;
+}
+#blackcat {
+    position: absolute;
+    top: 220px;
+    left: 350px;
+}
+#axolotl {
+    position: absolute;
+    top: 220px;
+    left: 600px;
+}
+#apig {
+    position: absolute;
+    top: 220px;
+    left: 850px;
+}
+h3 {
+    position: absolute;
+    top: 470px;
+    left: 170px;
+}
+#attention {
+    position: absolute;
+    top: 470px;
+    left: 50px;
+}
